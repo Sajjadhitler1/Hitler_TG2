@@ -3,8 +3,6 @@ do
 function run(msg, matches)
 if msg.to.type == 'channel' and is_momod(msg) then
   return ''..[[
-̴D̴̴i̴̴a̴̴m̴̴o̴̴n̴̴d̴ ̴C̴̴o̴̴m̴̴m̴̴a̴̴n̴̴d̴̴s̴ :
- 
 💢#bot off
 💢#bot on
 🎗شما میتوانید با این دستورات ربات را در گروه خود روشن و خاموش کنید.
@@ -30,7 +28,7 @@ if msg.to.type == 'channel' and is_momod(msg) then
 🎗》#modhelp
 
 Join us:
-✔️  @antispamandhack ]]
+✔️  @robot_list ]]
 end
 end
 return {
