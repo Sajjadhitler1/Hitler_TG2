@@ -266,7 +266,7 @@ function create_config( )
     "fwdall",
     "stats",
     "fun",
-    "setlang" 
+    "setlang",
     "setlangfa",
     "funhelp",
     "lockhelp",
