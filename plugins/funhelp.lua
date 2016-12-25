@@ -83,8 +83,7 @@ if msg.to.type == 'channel' and is_momod(msg) then
 
 ➰بجای کلمه یا متن موارد دلخواه خود را بنویسید.
 ➖➖➖➖➖➖➖
-➰ ʝօìղ մʂ ìժ çհ :
-➰ @antispamandhack
+➰ @robot_list
 ➖➖➖➖➖➖➖ ]]
 end
 end
