@@ -127,7 +127,7 @@ if msg.to.type == 'channel' and is_momod(msg) then
 
 ➰شما میتوانید از '/' یا '!' یا '#' برای اجرای دستورات استفاده کنید.
 ➖➖➖➖➖➖➖
-➰ robot_list
+➰ @robot_list
 ➖➖➖➖➖➖➖ ]]
 end
 end
